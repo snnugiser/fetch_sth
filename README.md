@@ -1,4 +1,4 @@
-# py_fetch_sth.exe 使用说明
+# fetch_sth.exe 使用说明
 
 在 `GNSS` 数据处理和应用中，经常要下载如广播星历、精密星历、精密钟差等各类文件。
 目前，已有许多 `GNSS` 数据下载工具。比较常用的有 `GAMIT` 的 `sh_get_orbit` 和
